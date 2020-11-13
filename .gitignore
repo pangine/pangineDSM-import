@@ -1,0 +1,13 @@
+*
+!**/
+!**.go
+!**.c
+!**.cpp
+!**/CMakeLists.txt
+!*.md
+!*.java
+!.gitignore
+!*.capnp
+**/build
+**/cmake-build-debug
+**/out
